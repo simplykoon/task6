@@ -1,0 +1,40 @@
+body { 
+				background-color: black;
+				margin: 5px;
+				font-family:Nunito; 
+				text-align: center;
+				color:beige; 
+				}
+.bg {
+				background-image: url("pizza_10.jpg");
+		   background-position:center; 
+				 background-repeat: no-repeat; 
+				 background-size: cover; 
+				border-radius: 20px; 
+     margin : auto; 
+     padding-top: 70px;
+     padding-bottom: 100px; 
+     
+				}
+				img {
+								border:1px solid beige; 
+								height:200px; 
+								width:150px; 
+								border-radius: 50%;
+								}
+			header {
+				color: beige; 
+				font-family: Tangerine; 
+				text-shadow: 4px 4px 4px #aaa; 
+				}
+				div.back {
+								width: 20%; 
+								text-align: center;
+								border: 1px solid white; 
+								background-color: rgba(265,256,256,0.2); 
+								color: beige; 
+								border-radius: 7px;
+								box-shadow: 4px 4px black; 
+								position: left; 
+				}
+				

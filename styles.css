@@ -1,0 +1,104 @@
+.WebContainer {
+				width:100%:
+				}
+body { 
+				background-color: black;
+				margin: 5px;
+				font-family:Nunito; 
+				text-align: center;
+				color:beige; 
+				}
+.bg {
+				background-image: url("pizza_10.jpg");
+		   background-position:center; 
+				 background-repeat: no-repeat; 
+				 background-size: cover; 
+				 border-radius: 20px; 
+     margin : auto; 
+     padding-top: 50px; 
+     padding-bottom:50PX; 
+     text-align: center; 
+     
+				}
+				nav {
+								margin:auto; 
+								text-align:center; 
+								}
+		div.a {
+					   	margin:auto; 
+								display : block;
+								width: 30%; 
+								text-align: center;
+								border: 1px solid white; 
+								background-color: rgba(265,256,256,0.2); 
+								color: beige; 
+								border-radius: 7px;
+								box-shadow: 4px 4px black; 
+							
+							 
+						}
+header {
+				color: beige; 
+				font-family: Tangerine; 
+				text-shadow: 4px 4px 4px #aaa; 
+				}
+	img {
+					height: 300px;
+					width : 350px; 
+					border-radius:20px;
+					margin:auto; 
+					}
+cite {
+				color: beige; 
+				}
+	
+					.insta {
+									font-size: 36px; 
+									background-color: #e117ff; 
+									height: 60px;
+									width: 60px; 
+									color: white; 
+									border-radius: 8px;
+									text-align:center; 
+									margin:auto; 
+									box-shadow: 4px 4px black; 
+									}
+				.wattsapp {
+									font-size: 36px; 
+									height: 60px;
+									width: 60px; 
+									border-radius: 8px;
+									text-align:center; 
+									margin:auto; 
+									box-shadow: 4px 4px black; 
+									 	background-color: #5dff6c; 
+									 	color: white; 
+									}
+				.email { 
+									font-size: 36px; 
+									height: 60px;
+									width: 60px; 
+									border-radius: 8px;
+									margin:auto; 
+									box-shadow: 4px 4px black; 
+									 	background-color: #ff2e2e; 
+									 	color: white; 
+											}
+	a {
+					test-decoration: none; 
+					text-align:center; 
+					color:beige; 
+					display:inline-block; 
+					 	}
+div.back {
+								width: 20%; 
+								text-align: center;
+								border: 1px solid white; 
+								background-color: rgba(265,256,256,0.2); 
+								color: beige; 
+								border-radius: 7px;
+								box-shadow: 4px 4px black; 
+								position: left; 
+				}
+
+	
